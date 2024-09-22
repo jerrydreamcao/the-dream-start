@@ -13,8 +13,8 @@ int main()
 	{
 		sum = sum + arr[i];
 	}
-	int 平均值 = sum / 10;
+	int avg = sum / 10;
 
-	printf("平均值=%d\n", 平均值);
+	printf("avg=%d\n", avg);
 	return 0;
 }
